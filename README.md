@@ -2,7 +2,10 @@
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio! Feel free to browse some of the fun projects I've completed throughout my data career.
+
+## 📖 Table of Contents
+- [Python](#python)
 
 ##  🛠️ Tools + Software
 Language: SQL, Python, Matplotlib, Seaborn, Pandas
