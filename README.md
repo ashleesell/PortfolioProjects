@@ -13,3 +13,11 @@ Visualization: Tableau, Looker Studio
 
 ## 👋🏻 Connect with me 
 * [Linkedin](https://www.linkedin.com/in/ashlee-sellung/)
+
+***
+
+# Python
+
+| Project Link | Area | Project Description | Libraries | 
+|---|---|---|---|
+| 🛍 [Shoe Company Analysis] (
