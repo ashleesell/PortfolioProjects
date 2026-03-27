@@ -1,4 +1,4 @@
-# Ashlee Sellung - Data Analyst Portfolio
+# Ashlee Sellung - Data Analytics Portfolio
 
 ## 📚 Projects
 
