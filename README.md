@@ -20,4 +20,4 @@ Visualization: Tableau, Looker Studio
 
 | Project Link | Area | Project Description | Libraries | 
 |---|---|---|---|
-| 🛍 [Shoe Company Analysis] (A_Sellung_Shunique_Business_Case_Complete (1).ipynb) | Data Wrangling & EDA | I analyzed more than 1 million sales transactions to understand - sales performance, growth opportunities, and cost saving solutions | pandas, matplotlib, seaborn |
+| 🛍 [Shoe Company Analysis](https://github.com/ashleesell/PortfolioProjects/blob/main/A_Sellung_Shunique_Business_Case_Complete%20(1).ipynb) | Data Wrangling & EDA | I analyzed more than 1 million sales transactions to understand - sales performance, growth opportunities, and cost saving solutions | pandas, matplotlib, seaborn |
