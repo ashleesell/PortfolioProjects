@@ -1,7 +1,5 @@
 # Ashlee Sellung - Data Analytics Portfolio
 
-## 📚 Projects
-
 Welcome to my portfolio! Feel free to browse some of the fun projects I've completed throughout my data career.
 
 ## 📖 Table of Contents
